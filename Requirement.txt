@@ -1,7 +1,7 @@
 streamlit
+matplotlib
 pandas
 seaborn
-matplotlib
-openai
-scikit-learn
 plotly
+scikit-learn
+openai
